@@ -1,5 +1,4 @@
- Configuring ALDL Adapter in TunerPro V5
-
+# Help Guide 2 - Configuring TunerPro
 ## Supported Systems
 
 - This guide is only intended for the following versions of Windows 10/11.
