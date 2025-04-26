@@ -25,8 +25,11 @@ In this step we will check to see if Windows has automatically detected the Adap
 5. Look for "Ports (COM & LPT) if the driver has been automatically installed it will show as "USB Serial Port (COMx) *Where x is the number it has been assigned)
 6. if this does not exist, Look for "Other Devices" and if this contains "USB Serial Cable" you will need to manually install the driver pack.
 
+
 **Driver is Installed**
+
 <img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/12.png?raw=true" style="width: 600px;">
 
 **Driver is not Installed**
+
 <img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/11.png?raw=true" style="width: 600px;">
