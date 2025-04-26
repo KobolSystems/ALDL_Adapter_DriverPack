@@ -30,7 +30,7 @@ This guide explains how to verify DataBus connectivity using the **OSE Enhanced 
 2. If prompted, install **.NET Framework 3.5**.  
    - This may take some time and requires an active internet connection.
 
-<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX Driver/Screenshots/b1.png?raw=true" style="width: 250px;">
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b1.png?raw=true" style="width: 250px;">
 
 
 > **Note**:  
