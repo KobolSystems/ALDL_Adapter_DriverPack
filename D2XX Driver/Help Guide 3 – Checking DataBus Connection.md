@@ -20,7 +20,7 @@ This guide explains how to verify DataBus connectivity using the **OSE Enhanced 
 - Download the OSE Enhanced Flash Tool from [this link](https://pcmhacking.net/forums/viewtopic.php?t=82).
 - Alternatively, an archived copy is available in our repository [here](https://github.com/KobolSystems/ALDL_Adapter_DriverPack/tree/main/D2XX%20Driver/OSE-Enhanced_Flash_Tool).
 
-**📸 (Insert Screenshot: OSE Enhanced Flash Tool Download Page)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b4.png?raw=true" style="width: 250px;">
 
 ---
 
@@ -30,12 +30,14 @@ This guide explains how to verify DataBus connectivity using the **OSE Enhanced 
 2. If prompted, install **.NET Framework 3.5**.  
    - This may take some time and requires an active internet connection.
 
-**📸 (Insert Screenshot: .NET Framework 3.5 Installation Screens)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b1.png?raw=true" style="width: 250px;">
+
 
 > **Note**:  
 > If you install .NET Framework 3.5, you must **reopen the downloaded file** afterwards.
 
-**📸 (Insert Screenshot: Reopen OSE Enhanced Flash Tool)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b12.png?raw=true" style="width: 250px;">
+
 
 ---
 
@@ -55,7 +57,8 @@ This guide explains how to verify DataBus connectivity using the **OSE Enhanced 
     - Uncheck 'Disable ECM Chatter'
 - Click **OK** to save.
 
-**📸 (Insert Screenshot: OSE Enhanced Flash Tool Preferences Configuration)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b8.png?raw=true" style="width: 250px;">
+
 
 ---
 
@@ -74,13 +77,15 @@ This guide explains how to verify DataBus connectivity using the **OSE Enhanced 
 
 **Successful Result**:
 
-**📸 (Insert Screenshot: Successful Send/Receive Test)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b10.png?raw=true" style="width: 250px;">
+
 
 - A successful response indicates the ALDL Adapter is fully functional.
 
 **Unsuccessful Result**:
 
-**📸 (Insert Screenshot: Failed Send/Receive Test)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b11.png?raw=true" style="width: 250px;">
+
 
 - An unsuccessful response generally indicates a **faulty ALDL Adapter**.
 
@@ -104,7 +109,7 @@ If "Testing Step 1" was successful, proceed to verify the vehicle's ALDL DataBus
 
 - Within a few seconds, you should see live data frames in the output window.
 
-**📸 (Insert Screenshot: Listening to ALDL Chatter Output)**
+<img src="https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Screenshots/b9.png?raw=true" style="width: 250px;">
 
 > **Note**:  
 > At the time of writing, no vehicle was available for capturing a real-world example.  
