@@ -69,7 +69,7 @@ You will need the com port number of the ALDL Adapter for Tuner Pro.
 *Note this may change from time to time so it is good practice to check it every time you launch the application*
 
 Follow the steps in this document 
-[Here](https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/readme.md)
+[Here](https://github.com/KobolSystems/ALDL_Adapter_DriverPack/blob/main/D2XX%20Driver/Help%20Guide%201%20-%20Verifying%20the%20Adapter%20is%20Installed.md)
 
 ---
 
